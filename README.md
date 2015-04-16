@@ -19,7 +19,7 @@ SPColorPicker.pick(options);
 
 Here is the complete `options` object:
 
-```js
+```
 var options = {
 	title: title for the modal dialog,
 	url: by default, it's "/_layouts/15/morecolors.aspx", which targets to SharePoint 2013,
