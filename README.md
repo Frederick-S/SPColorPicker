@@ -1,5 +1,5 @@
 # SPColorPicker
-Call color picker in SharePoint.
+Call color picker in SharePoint 2013.
 
 ## Usage
 ```js
