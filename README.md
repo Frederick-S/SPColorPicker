@@ -15,7 +15,7 @@ var options = {
 SPColorPicker.pick(options);
 ```
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.PNG)
 
 Here is the complete `options` object:
 
